@@ -1,0 +1,8 @@
+C:\Git\sorting_algorithms\selection_sort\selection_sort\bin\Debug\selection_sort.exe.config
+C:\Git\sorting_algorithms\selection_sort\selection_sort\bin\Debug\selection_sort.exe
+C:\Git\sorting_algorithms\selection_sort\selection_sort\bin\Debug\selection_sort.pdb
+C:\Git\sorting_algorithms\selection_sort\selection_sort\obj\Debug\selection_sort.csproj.AssemblyReference.cache
+C:\Git\sorting_algorithms\selection_sort\selection_sort\obj\Debug\selection_sort.csproj.SuggestedBindingRedirects.cache
+C:\Git\sorting_algorithms\selection_sort\selection_sort\obj\Debug\selection_sort.csproj.CoreCompileInputs.cache
+C:\Git\sorting_algorithms\selection_sort\selection_sort\obj\Debug\selection_sort.exe
+C:\Git\sorting_algorithms\selection_sort\selection_sort\obj\Debug\selection_sort.pdb
