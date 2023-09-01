@@ -1,0 +1,8 @@
+C:\Git\sorting_algorithms\bubble_sort\bubble_sort\bin\Debug\bubble_sort.exe.config
+C:\Git\sorting_algorithms\bubble_sort\bubble_sort\bin\Debug\bubble_sort.exe
+C:\Git\sorting_algorithms\bubble_sort\bubble_sort\bin\Debug\bubble_sort.pdb
+C:\Git\sorting_algorithms\bubble_sort\bubble_sort\obj\Debug\bubble_sort.csproj.AssemblyReference.cache
+C:\Git\sorting_algorithms\bubble_sort\bubble_sort\obj\Debug\bubble_sort.csproj.SuggestedBindingRedirects.cache
+C:\Git\sorting_algorithms\bubble_sort\bubble_sort\obj\Debug\bubble_sort.csproj.CoreCompileInputs.cache
+C:\Git\sorting_algorithms\bubble_sort\bubble_sort\obj\Debug\bubble_sort.exe
+C:\Git\sorting_algorithms\bubble_sort\bubble_sort\obj\Debug\bubble_sort.pdb
