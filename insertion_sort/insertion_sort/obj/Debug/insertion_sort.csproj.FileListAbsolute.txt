@@ -1,0 +1,8 @@
+C:\Git\sorting_algorithms\insertion_sort\insertion_sort\bin\Debug\insertion_sort.exe.config
+C:\Git\sorting_algorithms\insertion_sort\insertion_sort\bin\Debug\insertion_sort.exe
+C:\Git\sorting_algorithms\insertion_sort\insertion_sort\bin\Debug\insertion_sort.pdb
+C:\Git\sorting_algorithms\insertion_sort\insertion_sort\obj\Debug\insertion_sort.csproj.AssemblyReference.cache
+C:\Git\sorting_algorithms\insertion_sort\insertion_sort\obj\Debug\insertion_sort.csproj.SuggestedBindingRedirects.cache
+C:\Git\sorting_algorithms\insertion_sort\insertion_sort\obj\Debug\insertion_sort.csproj.CoreCompileInputs.cache
+C:\Git\sorting_algorithms\insertion_sort\insertion_sort\obj\Debug\insertion_sort.exe
+C:\Git\sorting_algorithms\insertion_sort\insertion_sort\obj\Debug\insertion_sort.pdb
